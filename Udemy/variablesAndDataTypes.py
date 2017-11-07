@@ -1,0 +1,2 @@
+variableNamesCannotBeginWithANumber = True
+
